@@ -1,0 +1,47 @@
+.root {
+  padding: 40px;
+  margin: 40px auto;
+  max-width: 800px;
+  text-align: left;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #666;
+  margin: 16px 0;
+}
+
+.todoItems {
+  &:nth-child(1) {
+    margin-bottom: 8px;
+  }
+  &:last-child {
+    margin-bottom: 40px;
+  }
+  p {
+    color: #333;
+    margin-left: 2px;
+  }
+}
+
+.todoInputSection {
+  width: 100%;
+  margin-bottom: 24px;
+  input {
+    border: none;
+    background-color: #fafafa;
+    font-size: 17px;
+    padding: 12px;
+    &:focus {
+      background-color: #eee;
+      transition: background-color 300ms ease-in;
+    }
+    width: 400px;
+  }
+  button {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+}

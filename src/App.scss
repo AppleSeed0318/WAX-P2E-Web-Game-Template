@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+button {
+  border: 1px solid #eee;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.02rem;
+  text-transform: uppercase;
+  background-color: transparent;
+  &:hover {
+    border-color: black;
+    background: black;
+    color: white;
+  }
+}

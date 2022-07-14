@@ -1,0 +1,38 @@
+.root {
+  padding: 16px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #f1f1f1;
+  border-radius: 2px;
+  margin-bottom: 8px;
+
+  &:hover {
+    background-color: rgba($color: #000000, $alpha: 0.01);
+  }
+}
+
+.root[aria-disabled="true"]:hover,
+.isDisabled {
+  background-color: #f1f1f1;
+}
+
+.titleSection {
+  text-align: left;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 400;
+  color: #333;
+  line-height: 1.5rem;
+  display: block;
+  margin: 0;
+  margin-bottom: 4px;
+}
+
+.createdAt {
+  font-size: 14px;
+  font-weight: 500;
+  color: #777;
+}
