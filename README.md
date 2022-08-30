@@ -7,3 +7,4 @@
 - SASS Modules
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 To start the project, run `npm install` and then `npm start`
+# WAX_P2E_FactoriesWorld_Game
