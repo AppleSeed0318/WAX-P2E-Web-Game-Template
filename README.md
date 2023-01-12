@@ -6,7 +6,7 @@
 - Redux Hooks
 - SASS Modules
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-To start the project, run `npm install` and then `npm start`
+<p>To start the project, run `npm install` and then `npm start`</p>
 
 If you have any questions, please contact here
 jamesberry0318.email@gmail.com
