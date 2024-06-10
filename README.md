@@ -9,9 +9,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <p>To start the project, run `npm install` and then `npm start`</p>
 <p>Or run `yarn install` and then `yarn start`</p>
 
-If you have any questions, please contact here
-<p>Gmail: jamesberry0318.email@gmail.com</p>
-<p>Telegram: @wildhorse318</p>
-<p>Discord: Creative Builder#5763</p>
-
 # WAX_P2E_Game_Template
